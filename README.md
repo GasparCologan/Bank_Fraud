@@ -5,7 +5,7 @@ Gaspar Cólogan Barajas
 - Email: gaspar.cologan@cunef.edu
 - Ruta Repositorio: https://github.com/GasparCologan/Bank_Fraud
 
-José Manuel de Castro Beristrain
+José Manuel de Castro Beristain
 - Email: josemanuel.decastro@cunef.edu
 - Ruta Repositorio: https://github.com/manu1dcb/Bank_Fraud
 
